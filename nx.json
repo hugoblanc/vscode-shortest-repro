@@ -26,13 +26,6 @@
     }
   },
   "projects": {
-    "repro": {
-      "tags": []
-    },
-    "repro-e2e": {
-      "tags": [],
-      "implicitDependencies": ["repro"]
-    },
     "myapp": {
       "tags": []
     },
